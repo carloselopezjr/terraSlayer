@@ -1,0 +1,3 @@
+displayName = Terra Slayer
+author = carlos
+version = 0.1
